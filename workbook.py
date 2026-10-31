@@ -27,7 +27,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
 
 # ======================= الإعدادات (عدّلها هنا فقط) =======================
-AUTHOR = "Mihwar Hadid"
+AUTHOR = "ZAKARIA GHOUDI"
 YEAR = 2026
 SEED = "kdp-v1"                      # غيّره لتحصل على تمارين مختلفة
 PAGE_W, PAGE_H = 8.5 * 72, 11 * 72   # مقاس KDP
